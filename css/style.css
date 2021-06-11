@@ -270,7 +270,7 @@ form{
 
 /* responsice */
 
-@media (max-width: 870px) {
+@media (max-width: 1085px) {
   .container{
     min-height: 800px;
     height: 100vh;
@@ -368,7 +368,7 @@ form{
   }
 }
 
-@media (max-width: 570px) {
+@media (max-width: 870px) {
   form{
     padding: 0 1.5rem;
   }
